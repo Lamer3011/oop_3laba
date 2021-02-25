@@ -154,7 +154,7 @@ namespace oop_3laba
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(461, 229);
+            this.button1.Location = new System.Drawing.Point(368, 252);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 11;
