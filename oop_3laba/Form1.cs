@@ -25,7 +25,7 @@ namespace oop_3laba
             double a = 0;
             double b = 0;
             double z = 0;
-            float x = (float)Convert.ToDouble(textBox_x.Text);
+            float x = float.Parse(textBox_x.Text);
             double eva = Math.E;
             double a3 = 0;
             double result = 0;
